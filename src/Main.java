@@ -131,4 +131,7 @@ public class Main {
         return Math.max(getDepth(root.left), getDepth(root.right)) + 1;
     }
     */
+   public List<List<Integer>> subsets(int[] nums) {
+       return null;
+   }
 }
